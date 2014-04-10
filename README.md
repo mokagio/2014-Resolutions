@@ -180,7 +180,7 @@ _I was on holiday_
 
 ##### Week ? - 7th to 13th April
 
-* _none_
+* [Every line of code is always documented](https://twitter.com/mokagio/status/454296629751717888)
 * _none_
 * _none_
 * _none_
