@@ -2,7 +2,7 @@
 
 ##### Every week
 
-* 5 tweets sharing tech articles
+* ~~5 tweets~~ 3 tweets sharing tech articles
 * 3 days of exercise, or at least 7 minutes workout
 
 ##### Every month
@@ -182,6 +182,16 @@ _I was on holiday_
 
 * [Every line of code is always documented](https://twitter.com/mokagio/status/454296629751717888)
 * _none_
+* _none_
+
+##### Week ? - 14th to 20th April
+
+* [What is BDD by the way?](https://twitter.com/mokagio/status/456565713444945920)
+* _none_
+* _none_
+
+##### Week ? - 21th to 27th April
+
 * _none_
 * _none_
 * _none_
