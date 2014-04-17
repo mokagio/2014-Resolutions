@@ -187,7 +187,7 @@ _I was on holiday_
 ##### Week ? - 14th to 20th April
 
 * [What is BDD by the way?](https://twitter.com/mokagio/status/456565713444945920)
-* _none_
+* [Test Driving iOS - A Primer](https://twitter.com/mokagio/status/456837368557752320)
 * _none_
 
 ##### Week ? - 21th to 27th April
