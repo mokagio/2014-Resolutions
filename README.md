@@ -188,10 +188,10 @@ _I was on holiday_
 
 * [What is BDD by the way?](https://twitter.com/mokagio/status/456565713444945920)
 * [Test Driving iOS - A Primer](https://twitter.com/mokagio/status/456837368557752320)
-* _none_
+* [The birth and death of Javascript](https://twitter.com/mokagio/status/457115127872241664)
 
 ##### Week ? - 21th to 27th April
 
-* _none_
+* [Modernize your Objective-C](https://twitter.com/mokagio/status/459642654931042304)
 * _none_
 * _none_
