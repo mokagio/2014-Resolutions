@@ -193,5 +193,5 @@ _I was on holiday_
 ##### Week ? - 21th to 27th April
 
 * [Modernize your Objective-C](https://twitter.com/mokagio/status/459642654931042304)
-* _none_
+* [Ruby Exceptions And Exception Handling](https://twitter.com/mokagio/status/459645166807425024)
 * _none_
