@@ -194,4 +194,4 @@ _I was on holiday_
 
 * [Modernize your Objective-C](https://twitter.com/mokagio/status/459642654931042304)
 * [Ruby Exceptions And Exception Handling](https://twitter.com/mokagio/status/459645166807425024)
-* _none_
+* [Including your Pods directory in source control](https://twitter.com/mokagio/status/459649317264162817)
